@@ -15,8 +15,11 @@ Escolhi o Tipo de ataque: Social-Engineering Attacks.
 O Vetor de ataque: Web Site Attack Vectors.
 
 O Método de ataque: Credential Harvester Attack Method.
+
 Especifique Qual o Método de ataque: Site Clone.
+
 E já com IP machine address.
+
 URL para clone: http://www.facebook.com.
 
 
